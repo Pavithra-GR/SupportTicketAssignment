@@ -12,7 +12,6 @@ SupportTicketAssignment is a web application designed to streamline support tick
 
 The application features a modern, responsive UI with role-based authentication and authorization.
 
----
 
 ## Features
 
@@ -30,7 +29,6 @@ The application features a modern, responsive UI with role-based authentication 
 - **Ticket Management:**  
   Create, assign, update, and resolve support tickets through the web interface.
 
----
 
 ## Technologies Used
 
@@ -40,7 +38,6 @@ The application features a modern, responsive UI with role-based authentication 
 - **Build Tool:** Maven  
 - **Java Version:** 17 or later  
 
----
 
 ## Access the Application
 
@@ -48,7 +45,7 @@ Once the application is running, open:
 [http://localhost:8080/home](http://localhost:8080/home)
 
 ## Project Structure
-
+```
 SupportTicketAssignment/
 ├── src/
 │ ├── main/
@@ -65,3 +62,4 @@ SupportTicketAssignment/
 │ ├── test/ # Unit and integration tests
 ├── pom.xml # Maven configuration
 ├── README.md # Project documentation
+```
